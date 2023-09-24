@@ -20,4 +20,4 @@ Uma aplicação de gerenciamento de tarefas simples em C que permite aos usuári
 1. Clone o repositório:
 
    ```sh
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/IsaRosseto/Lista-de-tarefas-Projeto1
